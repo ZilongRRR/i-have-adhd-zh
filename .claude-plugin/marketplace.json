@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "i-have-adhd-zh",
+  "description": "i-have-adhd 中文版：讓 Claude Code 的回覆先給下一步、步驟編號、不岔題。支援正體與簡體中文。",
+  "owner": {
+    "name": "ZilongRRR"
+  },
+  "plugins": [
+    {
+      "name": "i-have-adhd-zh",
+      "description": "適合 ADHD 讀者的中文輸出規則（正體 /adhd-tw、简体 /adhd-cn）。",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

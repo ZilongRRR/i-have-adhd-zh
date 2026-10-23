@@ -1,0 +1,21 @@
+{
+  "name": "i-have-adhd-zh",
+  "interface": {
+    "displayName": "I Have ADHD（中文）"
+  },
+  "plugins": [
+    {
+      "name": "i-have-adhd-zh",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ZilongRRR/i-have-adhd-zh.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

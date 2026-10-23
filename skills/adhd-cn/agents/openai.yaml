@@ -1,0 +1,7 @@
+interface:
+  display_name: "I Have ADHD（简体）"
+  short_description: "给 ADHD 读者的简体中文输出规则"
+  default_prompt: "用 $adhd-cn 让这次回复先给下一步、容易照着做。"
+
+policy:
+  allow_implicit_invocation: false

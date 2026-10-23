@@ -1,0 +1,12 @@
+{
+  "name": "i-have-adhd-zh",
+  "version": "0.1.0",
+  "description": "i-have-adhd 中文版：先給下一步、多步驟編號、壓住岔題、重述進度、讓成果看得見。正體 /adhd-tw，简体 /adhd-cn。",
+  "author": {
+    "name": "ZilongRRR",
+    "url": "https://github.com/ZilongRRR"
+  },
+  "homepage": "https://github.com/ZilongRRR/i-have-adhd-zh",
+  "repository": "https://github.com/ZilongRRR/i-have-adhd-zh",
+  "license": "MIT"
+}

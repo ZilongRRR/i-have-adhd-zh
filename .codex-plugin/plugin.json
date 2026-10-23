@@ -1,0 +1,30 @@
+{
+  "name": "i-have-adhd-zh",
+  "version": "0.1.0",
+  "description": "i-have-adhd 中文版（Codex）：先給下一步、步驟編號、不岔題、進度看得見。正體 $adhd-tw，简体 $adhd-cn。",
+  "author": {
+    "name": "ZilongRRR",
+    "url": "https://github.com/ZilongRRR"
+  },
+  "homepage": "https://github.com/ZilongRRR/i-have-adhd-zh",
+  "repository": "https://github.com/ZilongRRR/i-have-adhd-zh",
+  "license": "MIT",
+  "keywords": ["adhd", "chinese", "zh-tw", "zh-cn", "output-style", "codex"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "I Have ADHD（中文）",
+    "shortDescription": "給 ADHD 讀者的中文輸出規則",
+    "longDescription": "讓 Codex 的中文回覆先給下一步、多步驟編號、壓住岔題、每輪重述進度、把完成的成果擺出來。支援正體與簡體中文。",
+    "developerName": "ZilongRRR",
+    "category": "Productivity",
+    "capabilities": ["Instructions"],
+    "websiteURL": "https://github.com/ZilongRRR/i-have-adhd-zh",
+    "defaultPrompt": [
+      "用 $adhd-tw 回答這個問題。",
+      "用 $adhd-cn 回答这个问题。"
+    ],
+    "brandColor": "#2563EB",
+    "composerIcon": "./logo.png",
+    "logo": "./logo.png"
+  }
+}
